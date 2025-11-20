@@ -62,3 +62,40 @@ Backend	Python (OOP)
 Database	JSON file
 Frontend	Streamlit
 UI	Streamlit Widgets
+📦 Project Structure
+📂 bank-management
+│── bank.py
+│── streamlit_app.py
+│── database.json
+│── README.md
+
+▶️ How to Run
+1. Install dependencies:
+pip install streamlit
+
+2. Run the Streamlit app:
+streamlit run streamlit_app.py
+
+3. App will open automatically at:
+http://localhost:8501/
+
+🎯 Why This Project?
+
+✔️ Beginner-friendly
+✔️ No SQL needed
+✔️ Perfect for learning CRUD + OOP
+✔️ Ready for portfolio / GitHub
+✔️ Lightweight banking logic
+
+📸 Screenshots
+
+(Add screenshots of your app UI)
+
+🤝 Contributions
+
+Pull requests are welcome!
+If you have ideas to improve the project, feel free to open an issue.
+
+⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
